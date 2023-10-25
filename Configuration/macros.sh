@@ -18,7 +18,7 @@ es_numero='^-?[0-9]+([.][0-9]+)?$'
 display_usage(){
   echo "introduce la información necesaria"
   echo "Not valid Arguments: $@"
-  echo "Usage: SEXO[femenino(f)/masculino(m)] peso[kg]  estatura[cm] edad[anos] actividad[sedentario(s)/lijero[l]/moderado[m]/intenso[i]/duro[d] proteina[double] carbohidratos grasa calorias_menos[double] "
+  echo "Usage: SEXO[femenino(f)/masculino(m)] peso[kg]  estatura[cm] edad[anos] actividad[sedentario(s)/ligero[l]/moderado[m]/intenso[i]/duro[d] proteina[double] carbohidratos grasa calorias_menos[double] "
   }
 
 check_usage() {

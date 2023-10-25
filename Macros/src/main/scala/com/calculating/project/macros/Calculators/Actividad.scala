@@ -21,7 +21,7 @@ object Actividad extends Porcentajes {
      ejercicio match {
 
      case "sedentario" => calorias * 1.2
-     case "lijero" => calorias * 1.375
+     case "ligcero" => calorias * 1.375
      case "moderado" => calorias * 1.55
      case "intenso" => calorias * 1.725
      case "duro" => calorias * 1.9
