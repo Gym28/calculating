@@ -12,8 +12,10 @@ De acuerdo con tu genero, altura, peso y actividad diaria calculará las ***calo
 de cada uno de tus macros.
 
 >###  :point_right: `PARAMETROS`
-La información que debes escribir y el orden debe ser el siguiente:  *Sexo, peso, edad, estatura, actividad, 
-proteína, carbohidatos, grasas y calorías* 
+La información que debes escribir.
+
+>   [!WARNING]
+el orden debe ser el siguiente:  *Sexo, peso, edad, estatura, actividad, proteína, carbohidatos, grasas y calorías* 
 
 ### :apple:  Sexo
 
@@ -41,6 +43,7 @@ Escribe una de estas opciones según la actividad diaria que tengas
 ### :apple: Porcentaje de Macros
 Debes ingresar el porcentaje de macros en décimales y siguiendo el orden primero proteínas, luego 
 carbohidratos y por último las grasas.
+> [!NOTE]
 Si no conoces el porcentaje que debes consumir puedes  ingresar el porcentaje según el biotipo que tengas
 de acuerdo con la siguiente tabla.
 
